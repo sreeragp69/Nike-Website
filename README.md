@@ -1,10 +1,11 @@
 # Nike Website 
 
-A professional, fully responsive Nike website, meticulously crafted using React.js with Vite for the build tool and Tailwind CSS for styling.
+This project is a conceptual design for a Nike-themed website, implemented with React.js, Vite, and Tailwind CSS. The website is fully responsive, providing an optimal viewing experience across a variety of devices.
 
 ## Description
 
-This project is a faithful reproduction of Nike's website, meticulously designed and developed to maintain the original's visual integrity while ensuring responsiveness across all devices. It leverages the power of React.js for dynamic content and interactivity, Vite for fast and efficient development, and Tailwind CSS for a clean, modern aesthetic.
+The Nike Website Concept project is a demonstration of modern web development techniques, showcasing a visually stunning design inspired by Nike's official website. Built with React.js for dynamic content, Vite for fast development, and Tailwind CSS for sleek styling, this project aims to provide both functionality and aesthetic appeal.
+
 
 ## Features
 
